@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginHorizontal="8dp"
+    app:cardBackgroundColor="@color/biru_pudar"
+    app:cardCornerRadius="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Action"
+        android:layout_marginHorizontal="20dp"
+        android:id="@+id/gendre"
+        android:layout_marginVertical="10dp"
+        android:textColor="@color/biru"
+        android:fontFamily="@font/inter"/>
+
+
+
+</androidx.cardview.widget.CardView>

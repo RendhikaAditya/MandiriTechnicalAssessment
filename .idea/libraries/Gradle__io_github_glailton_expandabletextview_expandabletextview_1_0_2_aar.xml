@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.glailton.expandabletextview:expandabletextview:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/transforms-3/0240d0eedfcdc4fb622e071d3a5b4814/transformed/jetified-expandabletextview-1.0.2/jars/classes.jar!/" />
+      <root url="file://E:/.gradle/caches/transforms-3/0240d0eedfcdc4fb622e071d3a5b4814/transformed/jetified-expandabletextview-1.0.2/res" />
+      <root url="file://E:/.gradle/caches/transforms-3/0240d0eedfcdc4fb622e071d3a5b4814/transformed/jetified-expandabletextview-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.github.glailton.expandabletextview/expandabletextview/1.0.2/c2b37f27e508c9d7bcb235d60179d05dcfbb7a56/expandabletextview-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

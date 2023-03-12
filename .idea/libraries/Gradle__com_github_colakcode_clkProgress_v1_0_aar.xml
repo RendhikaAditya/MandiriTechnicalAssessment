@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.colakcode:clkProgress:v1.0@aar">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/transforms-3/76b6cc25dee3668e9ef41a22b067f90a/transformed/jetified-clkProgress-v1.0/jars/classes.jar!/" />
+      <root url="file://E:/.gradle/caches/transforms-3/76b6cc25dee3668e9ef41a22b067f90a/transformed/jetified-clkProgress-v1.0/res" />
+      <root url="file://E:/.gradle/caches/transforms-3/76b6cc25dee3668e9ef41a22b067f90a/transformed/jetified-clkProgress-v1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/com.github.colakcode/clkProgress/v1.0/93b71234e43d7acc17231974b3ec44c879ae11a6/clkProgress-v1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
